@@ -1,0 +1,11 @@
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\bin\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.exe
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\bin\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.deps.json
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\bin\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.runtimeconfig.json
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\bin\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\bin\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.dll
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\bin\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.pdb
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\obj\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\obj\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\obj\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.AssemblyInfo.cs
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\obj\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.dll
+C:\Users\Michael\Desktop\htdocs\travel-panel-api-search-sdk-net\obj\Debug\netcoreapp3.0\travel-panel-api-search-sdk-net.pdb

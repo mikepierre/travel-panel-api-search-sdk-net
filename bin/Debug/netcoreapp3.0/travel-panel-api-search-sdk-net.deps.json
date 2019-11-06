@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "travel-panel-api-search-sdk-net/1.0.0": {
+        "runtime": {
+          "travel-panel-api-search-sdk-net.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "travel-panel-api-search-sdk-net/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
