@@ -9,8 +9,8 @@ namespace POCO.Hotels
     public class SearcHotels
     {    
         public string location  { get; set; }
-        public stringcheck_in  { get; set; }
-        public stringcheck_out  { get; set; }
+        public string check_in  { get; set; }
+        public string check_out  { get; set; }
         public string rooms { get; set; }
         public string adults { get; set; }
         public string children { get; set; }
