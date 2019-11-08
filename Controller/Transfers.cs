@@ -11,12 +11,43 @@ namespace Controller.Transfers
     {
         static HttpClient client = new HttpClient();
 
+        // Book Transfer
+        /// <summary>
+        /// Book Transfer
+        /// </summary>
+        /// <returns>
+        /// A Response Object. 
+        /// </returns>
+        /// /// <param name="params">A Dictonary Collection</param>
+        /// /// <param name="path">A String</param>
         static aysnc Task<Book> book()
         {
-
+            HttpResponseMessage response = await client.GetAsync(path);
+            if (response.IsSuccessStatusCode)
+            {
+                response = await response.Content.ReadAsAsync<params>();
+            }
+            return response;
         }
 
-        static aysnc Task<GetTransferAvailablity> getRates(){}
+        // Get Report By Id
+        /// <summary>
+        /// Get Report By Id
+        /// </summary>
+        /// <returns>
+        /// A Response Object. 
+        /// </returns>
+        /// /// <param name="params">A Dictonary Collection</param>
+        /// /// <param name="path">A String</param>
+        static aysnc Task<GetTransferAvailablity> getRates()
+        {
+            HttpResponseMessage response = await client.GetAsync(path);
+            if (response.IsSuccessStatusCode)
+            {
+                response = await response.Content.ReadAsAsync<params>();
+            }
+            return response;
+        }
 
     }
 }
