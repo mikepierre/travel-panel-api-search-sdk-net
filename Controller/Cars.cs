@@ -20,7 +20,7 @@ namespace Controller.Cars
         /// </returns>
         /// /// <param name="params">A Dictonary Collection</param>
         /// /// <param name="path">A String</param>
-        static aysnc Task<Book> book()
+        static aysnc Task<Book> book(ArrayList params)
         {
             HttpResponseMessage response = await client.GetAsync(path);
             if (response.IsSuccessStatusCode)
