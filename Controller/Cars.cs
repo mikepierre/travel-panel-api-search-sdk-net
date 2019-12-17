@@ -4,6 +4,7 @@ using System.Net.Http;
 using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using POCO.Cars;
+using POCO.Cars.Book;
 
 namespace Controller.Cars
 {
@@ -20,7 +21,7 @@ namespace Controller.Cars
         /// </returns>
         /// /// <param name="params">A Dictonary Collection</param>
         /// /// <param name="path">A String</param>
-        static aysnc Task<Book> book(ArrayList params)
+        static void book()
         {
             HttpResponseMessage response = await client.GetAsync(path);
             if (response.IsSuccessStatusCode)
